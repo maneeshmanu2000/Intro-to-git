@@ -13,9 +13,9 @@
 
 ### Offical documentations of Git & GitHub
 
-> -[Git](http://git-scm.com)
+> [Git](http://git-scm.com)
 
-> -[GitHub](http://github.com)
+> [GitHub](http://github.com)
 
 - **For Git & GitHub is used in SkillUPxJEC ?**
 
@@ -33,22 +33,22 @@
     - For Linux Users, open up your terminal window (` Ctrl + Alt + T `) and type the following commands line by line
         - For `Debian based OS ( Ubuntu,Kubuntu,Lubuntu,Debian,Kali linux, etc)`
 
-            ```
+            ```bash
             $ sudo apt-get update
             $ sudo apt-get install git
             ```
         - For `RPM based systems (Red Hat Entreprise Linux, openSUSE, Fedora, CentOS, Arch Linux)`
-            ```
-            $sudo dnf install git-all
+            ```bash
+            $ sudo dnf install git-all
             ```
 
     To check whether git is installed or not
 
-    ```
+    ```bash
     $ git --version 
-     [it'll show your version of git]
+
     ```
- 
+    It will show your version of Git currently installed
 
 
 
